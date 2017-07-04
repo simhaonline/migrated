@@ -1,2 +1,2 @@
 # migrated
-All projects has been migrated to gitlab.com
+All projects has been migrated to https://gitlab.com/williecadete
